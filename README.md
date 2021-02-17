@@ -8,8 +8,11 @@ do re mi
 
 # Congratulations
 
+<<<<<<< HEAD
 
 
 
 
 Let's create some conflicts! 
+=======
+>>>>>>> 2c2dd548d5b8616337f3630e2dd481af036629e1
